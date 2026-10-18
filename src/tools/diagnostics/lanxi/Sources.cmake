@@ -1,0 +1,20 @@
+list(APPEND FRDM_QML_FILES
+    src/tools/diagnostics/lanxi/qml/LanXiSoundPowerPage.qml
+    src/tools/diagnostics/lanxi/qml/LanXiModalPage.qml
+    src/tools/diagnostics/lanxi/qml/LanXiExchangePage.qml
+    src/tools/diagnostics/lanxi/qml/LanXiButton.qml
+    src/tools/diagnostics/lanxi/qml/LanXiNavigator.qml
+    src/tools/diagnostics/lanxi/qml/LanXiInspector.qml
+    src/tools/diagnostics/lanxi/qml/LanXiAdvancedPage.qml
+    src/tools/diagnostics/lanxi/qml/LanXiGeometry.qml
+    src/tools/diagnostics/lanxi/qml/LanXiOrderMap.qml
+    src/tools/diagnostics/lanxi/qml/LanXiStudio.qml
+    src/tools/diagnostics/lanxi/qml/LanXiText.qml
+    src/tools/diagnostics/lanxi/qml/LanXiSelect.qml
+    src/tools/diagnostics/lanxi/qml/LanXiPlot.qml
+    src/tools/diagnostics/lanxi/qml/LanXiAnalysisPage.qml
+    src/tools/diagnostics/lanxi/qml/LanXiAcoustics.qml
+    src/tools/diagnostics/lanxi/qml/LanXiBands.qml
+    src/tools/diagnostics/lanxi/qml/LanXiHeatmap.qml
+    src/tools/diagnostics/lanxi/qml/LanXiDevices.qml
+)
